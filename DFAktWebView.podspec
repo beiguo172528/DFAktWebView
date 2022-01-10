@@ -142,7 +142,6 @@ Pod::Spec.new do |spec|
   spec.dependency "AFNetworking/Security"
   spec.dependency "AFNetworking/NSURLSession"
   spec.dependency "AFNetworking/Reachability"
-  spec.dependency "SQLQRCodeScanner"
   spec.dependency "SQLPopVC"
   spec.dependency "WebViewJavascriptBridge"
 end
