@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DFAktWebView"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "得孚爱课堂WebView"
 
   # This description is used to generate tags and improve search results.
@@ -142,6 +142,5 @@ Pod::Spec.new do |spec|
   spec.dependency "AFNetworking/Security"
   spec.dependency "AFNetworking/NSURLSession"
   spec.dependency "AFNetworking/Reachability"
-  spec.dependency "SQLPopVC"
   spec.dependency "WebViewJavascriptBridge"
 end
